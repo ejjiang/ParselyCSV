@@ -1,5 +1,5 @@
 {
-  "name": "csv-uploader",
+  "name": "parsely-csv",
   "version": "1.0.0",
   "description": "A simple TypeScript application for uploading and viewing CSV files",
   "main": "dist/server.js",
