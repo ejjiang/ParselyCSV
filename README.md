@@ -25,7 +25,14 @@ A beautiful, modern TypeScript application that allows you to upload and view CS
 
 ### Installation
 
-1. **Clone or download the project**
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/ejjiang/ParselyCSV.git
+   cd ParselyCSV
+   ```
+   
+   Or download the ZIP from [GitHub](https://github.com/ejjiang/ParselyCSV)
+
 2. **Install dependencies:**
    ```bash
    npm install
